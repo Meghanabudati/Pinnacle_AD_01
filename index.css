@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bg-con {
+    background-color: #D3CCE3;
+    ;
+}
+
+.choice {
+    font-size: 100px;
+    cursor: pointer;
+}
+
+#scoreboard {
+    margin-top: 20px;
+}
+
+.heading {
+    color: #240b36;
+}
+
+.captions {
+    color: #3c1053;
+}
